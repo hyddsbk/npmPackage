@@ -1,0 +1,2 @@
+# npmPackage
+test-npm-package
